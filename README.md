@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Vedangi 👋
 
-<!--
-**vedangi-gupte/vedangi-gupte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ASIC Design & Verification Engineer based in Tempe, AZ. MS in Computer Engineering from Arizona State University.
 
-Here are some ideas to get you started:
+I work across the chip design flow: **RTL design**, **design verification (UVM / cocotb / pyuvm)**, and **physical design (RTL-to-GDS)**, down to transistor-level custom cells.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Focus areas
+- **Design Verification:** UVM testbenches, constrained-random stimulus, SVA, coverage closure
+- **RTL Design:** RISC-V cores, AXI4 interfaces, caches, bus protocols (I2C, CAN, SPI, UART)
+- **Physical Design:** synthesis, place & route, STA, timing closure, DRC/LVS
+- **Custom Circuits:** standard-cell layout, transistor sizing, SPICE characterization
+
+### 🛠️ Tools & languages
+SystemVerilog · Verilog · UVM · Python · cocotb · TCL · Synopsys VCS / Verdi / Design Compiler · Cadence Innovus / Virtuoso · Calibre · Verilator
+
+### 📫 Reach me
+[LinkedIn](https://www.linkedin.com/in/vedangi-gupte/) · vedangigupte2@gmail.com
